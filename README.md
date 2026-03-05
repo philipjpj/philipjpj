@@ -22,28 +22,6 @@
 ---
 
 ```
-> SCAN :: ACTIVE OPERATIONS
-
-  ┌─ PROJECT_01 ─────────────────────────────────────────────────┐
-  │  AI NEWS AGGREGATOR                                          │
-  │  · Scraping + RSS + APIs → AI Agents ecosystem              │
-  │  · Engine     : Groq LLM                                    │
-  │  · Output     : Telegram (autonomous)                       │
-  │  · Next phase : X.com + LinkedIn distribution               │
-  │  · Progress   : ████████░░░░  TESTING                       │
-  └──────────────────────────────────────────────────────────────┘
-
-  ┌─ BACKGROUND ─────────────────────────────────────────────────┐
-  │  COMPANY BOOTSTRAP                                           │
-  │  · Focus    : AI Automation & Agent-based systems           │
-  │  · Phase    : Identity · Naming · Positioning               │
-  │  · Progress : ████░░░░░░░░  IN PROGRESS                     │
-  └──────────────────────────────────────────────────────────────┘
-```
-
----
-
-```
 > LOAD :: CAPABILITIES
 
   [■] AI Automation pipelines
@@ -55,17 +33,6 @@
   [■] Claude Code ── certified (Anthropic)
   [■] Front-end development ── LEGACY / DEPRECATED
   [▒] AI Agents design & development ── ONGOING
-```
-
----
-
-```
-> QUERY :: STACK
-
-  LANG      →  Python
-  ENGINES   →  Groq · Claude (Anthropic)
-  TOOLS     →  Claude Code · REST APIs · RSS parsers
-  OUTPUT    →  Telegram → X.com → LinkedIn  [phase 1 → 2]
 ```
 
 ---
