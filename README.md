@@ -38,18 +38,6 @@
 ---
 
 ```
-> READ :: operating_directives.log
-
-  /01/  Build things that work. Not demos.
-  /02/  Ship before perfect. Iterate after.
-  /03/  Learn in public. Document the process.
-  /04/  Automation should run while you sleep.
-  /05/  Work at the layer with the most leverage.
-```
-
----
-
-```
 > CONNECT :: interfaces
 
   LinkedIn  ──  https://www.linkedin.com/in/filippo-pelloia/
