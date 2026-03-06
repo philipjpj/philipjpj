@@ -18,5 +18,3 @@
   BASE     ::  VENICE / ITALY
   STATUS   ::  ACTIVE ── BUILD CYCLE IN PROGRESS
 ---
-
----
