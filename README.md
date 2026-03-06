@@ -19,10 +19,4 @@
   STATUS   ::  ACTIVE ── BUILD CYCLE IN PROGRESS
 ---
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  ALL REPOSITORIES ARE ACTIVE EXPERIMENTS.                     ▓
-▓  SOME WILL FAIL. ALL WILL TEACH SOMETHING.                    ▓
-▓                                             [ SESSION OPEN ]  ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+---
