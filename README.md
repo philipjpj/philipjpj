@@ -17,34 +17,6 @@
   ROLE     ::  AI AUTOMATION BUILDER
   BASE     ::  VENICE / ITALY
   STATUS   ::  ACTIVE ── BUILD CYCLE IN PROGRESS
-```
-
----
-
-```
-> LOAD :: CAPABILITIES
-
-  [■] AI Automation pipelines
-  [■] LLM integration ── Groq · Claude · APIs
-  [■] Web scraping & data extraction
-  [■] RSS + API orchestration
-  [■] Autonomous publishing workflows
-  [■] Python ── fundamentals → advanced (AI context)
-  [■] Claude Code ── certified (Anthropic)
-  [■] Front-end development ── LEGACY / DEPRECATED
-  [▒] AI Agents design & development ── ONGOING
-```
-
----
-
-```
-> CONNECT :: interfaces
-
-  LinkedIn  ──  https://www.linkedin.com/in/filippo-pelloia/
-  X.com     ──  https://x.com/pelloiafilippo
-  Telegram  ──  [UPLINK PENDING]
-```
-
 ---
 
 ```
